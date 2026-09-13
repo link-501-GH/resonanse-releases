@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "channel": "test",
+  "updater": {
+    "version": "0.1.0",
+    "url": "https://github.com/RexarGames/resonanse-releases/releases/download/v0.1.0/ResonanseUpdater.exe",
+    "sha256": "b8298200234990f634552ff591c9596e93359a2976d542190aec8e4a8632e6d3",
+    "size": 72449420
+  },
+  "launcher": {
+    "version": "0.1.0",
+    "url": "https://github.com/RexarGames/resonanse-releases/releases/download/v0.1.0/Resonanse-Launcher-win-x64.zip",
+    "sha256": "e3ffd8155a46323db438772ca00b2d3ac95a9a2a108260447f41dca5c2d5d8e7",
+    "size": 86520088
+  },
+  "game": {
+    "version": "0.1.0",
+    "url": "https://github.com/RexarGames/resonanse-releases/releases/download/v0.1.0/Resonanse-Game-win-x64.zip",
+    "sha256": "913db1c5059108435751dddfecdf08b3687dea817b4d355c355c8cbc4f56198e",
+    "size": 93238687
+  },
+  "notes": "Первая тестовая система установки и автоматических обновлений Resonanse."
+}
