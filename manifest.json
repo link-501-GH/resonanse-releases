@@ -14,10 +14,10 @@
     "size": 88548164
   },
   "game": {
-    "version": "0.1.1",
-    "url": "https://github.com/link-501-GH/resonanse-releases/releases/download/v0.1.1/Resonanse-Game-win-x64.zip",
-    "sha256": "6534d159107cb2c43b4d89e0141ad5e4b23bd4b8c4e315ec2eeea75213d02795",
-    "size": 95111047
+    "version": "0.1.2",
+    "url": "https://github.com/link-501-GH/resonanse-releases/releases/download/v0.1.2/Resonanse-Game-win-x64.zip",
+    "sha256": "d39eac04a5798dc83dacbafbc3bba03ceab27d08d7cdc62e30aade4da048a56c",
+    "size": 95131414
   },
-  "notes": "Добавлен выбор папок установки, ярлык рабочего стола и установка игры прямо из лаунчера."
+  "notes": ""
 }
