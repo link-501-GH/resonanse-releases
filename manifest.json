@@ -8,10 +8,10 @@
     "size": 72637324
   },
   "launcher": {
-    "version": "1.0.1",
-    "url": "https://github.com/link-501-GH/resonanse-releases/releases/download/v1.0.1/Resonanse-Launcher-win-x64.zip",
-    "sha256": "499bdede934ab04c75b2934eb6ac2b2dce073d206d5f52e02dfd1e7f7980a4da",
-    "size": 88548535
+    "version": "1.0.2",
+    "url": "https://github.com/link-501-GH/resonanse-releases/releases/download/v1.0.2/Resonanse-Launcher-win-x64.zip",
+    "sha256": "5f4dab0292db279f8f9ddc95be143cde36a8f069b6a6c4b81f892b6e88b42faf",
+    "size": 88551279
   },
   "game": {
     "version": "1.0.1",
