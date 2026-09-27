@@ -1,2 +1,3 @@
-# resonanse-releases
-Official Resonanse updater manifests and Windows release packages
+# Resonanse releases
+
+Этот репозиторий хранит официальный манифест и бинарные пакеты обновлений Resonanse. Пользовательские аккаунты и сессии в пакеты не включаются.

@@ -2,22 +2,22 @@
   "schemaVersion": 1,
   "channel": "test",
   "updater": {
-    "version": "1.0.4",
-    "url": "https://github.com/link-501-GH/resonanse-releases/releases/download/v1.0.4/ResonanseUpdater.exe",
-    "sha256": "60b8a5b068b9e9d184252d648ad842fa6154b7b7b381964e26ab412c5546de98",
+    "version": "1.0.5",
+    "url": "https://github.com/link-501-GH/resonanse-releases/releases/download/v1.0.5/ResonanseUpdater.exe",
+    "sha256": "7f59bfe1c472ba1c429960cdd72f8a4927425092cafa99681b7d1a422f20be77",
     "size": 72637324
   },
   "launcher": {
-    "version": "1.0.4",
-    "url": "https://github.com/link-501-GH/resonanse-releases/releases/download/v1.0.4/Resonanse-Launcher-win-x64.zip",
-    "sha256": "6fc03911557abf2ce348c04c8314373c06af16cc8effa493f60d426160a2c4c0",
-    "size": 88551284
+    "version": "1.0.5",
+    "url": "https://github.com/link-501-GH/resonanse-releases/releases/download/v1.0.5/Resonanse-Launcher-win-x64.zip",
+    "sha256": "d3e7d41c159054cf4b098f216042d3ec3df2d9bbf907fcd0d867c12bf5f9a6e3",
+    "size": 86780699
   },
   "game": {
-    "version": "1.0.4",
-    "url": "https://github.com/link-501-GH/resonanse-releases/releases/download/v1.0.4/Resonanse-Game-win-x64.zip",
-    "sha256": "a28349e8d02d1970504b9a53b12187c09263e3d3beb54a150a89334b53826f0c",
-    "size": 107877017
+    "version": "1.0.5",
+    "url": "https://github.com/link-501-GH/resonanse-releases/releases/download/v1.0.5/Resonanse-Game-win-x64.zip",
+    "sha256": "f54b5490d7782419afdfb5f3f212ff5d752efaa9b8834db1e0e10af1170e8a9e",
+    "size": 109733047
   },
   "notes": ""
 }
