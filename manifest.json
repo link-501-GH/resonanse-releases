@@ -14,10 +14,10 @@
     "size": 86780699
   },
   "game": {
-    "version": "1.0.5",
-    "url": "https://github.com/link-501-GH/resonanse-releases/releases/download/v1.0.5/Resonanse-Game-win-x64.zip",
-    "sha256": "f54b5490d7782419afdfb5f3f212ff5d752efaa9b8834db1e0e10af1170e8a9e",
-    "size": 109733047
+    "version": "1.0.6",
+    "url": "https://github.com/link-501-GH/resonanse-releases/releases/download/v1.0.6/Resonanse-Game-win-x64.zip",
+    "sha256": "159b4f2f835cedbe6aa9e3445e95280bed41b1fd991f179a3d4739a2f340fd91",
+    "size": 110683543
   },
   "notes": ""
 }
